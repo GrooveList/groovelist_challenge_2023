@@ -81,7 +81,6 @@ Tu misión es desarrollar una aplicación de gestión de un catálogo musical. E
 graph TD
 A[Usuario] --> B[Frontend React/React Native]
 B --> C[API Backend Spring Boot]
-C --> D[Base de Datos]
 ```
 
 ## Flujo medio:
